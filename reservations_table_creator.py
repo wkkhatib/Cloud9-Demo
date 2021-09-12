@@ -102,7 +102,7 @@ def create_reservations_table(
 
 if __name__ == '__main__':
     print('===============================================================')
-    print('Lab 3 DynamoDB - Reservations Table creation')
+    print('Reservations Table creation')
     print('===============================================================')
     remove_reservations_table()
     create_reservations_table_wrapper()
